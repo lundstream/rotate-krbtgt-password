@@ -2,7 +2,7 @@
 
 **Version:** 1.0 
 
-**AUTHOR:** fredrik.lundstrom
+**AUTHOR:** lundstream
 
 **CREDIT:** Lauck-IT
 
