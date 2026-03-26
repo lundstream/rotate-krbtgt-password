@@ -1,6 +1,9 @@
 ## KRBTGT SAFE ROTATION SCRIPT 1.0
+
 **AUTHOR:** fredrik.lundstrom
+
 **CREDIT:** Lauck-IT
+
 **Source:** https://github.com/Lauck-IT/KrbtgtRotation
 
 ---
