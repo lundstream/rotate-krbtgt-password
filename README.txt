@@ -1,9 +1,8 @@
-KRBTGT SAFE ROTATION SCRIPT 1.0
-
-AUTHOR: fredrik.lundstrom@advania.com
-
+KRBTGT SAFE ROTATION SCRIPT
+Version: 1.0
+AUTHOR: lundstream
 CREDIT: Lauck-IT
-https://github.com/Lauck-IT/KrbtgtRotation
+Source: https://github.com/Lauck-IT/KrbtgtRotation
 -----------------------------------------------------------------------------------------------------------
 This script provides a safe and controlled method for rotating the krbtgt password in an Active Directory environment. It includes a built-in cooldown mechanism that prevents multiple password rotations within a short time period.
 
