@@ -1,4 +1,6 @@
-## KRBTGT SAFE ROTATION SCRIPT 1.0
+## KRBTGT SAFE ROTATION SCRIPT
+
+**Version:** 1.0 
 
 **AUTHOR:** fredrik.lundstrom
 
