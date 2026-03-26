@@ -1,0 +1,1 @@
+﻿Write-Host "Test script run time: $(Get-Date -Format "yyyy-MM-dd HH:mm")" -ForegroundColor Green
