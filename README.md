@@ -5,7 +5,6 @@
 **AUTHOR:** lundstream
 
 **CREDIT:** Lauck-IT
-
 **Source:** https://github.com/Lauck-IT/KrbtgtRotation
 
 ---
