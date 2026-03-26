@@ -3,7 +3,7 @@
 **CREDIT:** Lauck-IT
 **Source:** https://github.com/Lauck-IT/KrbtgtRotation
 
------------------------------------------------------------------------------------------------------------
+---
 This script provides a safe and controlled method for rotating the **krbtgt** password in an Active Directory environment. It includes a built-in cooldown mechanism that prevents multiple password rotations within a short time period.
 
 The **default cooldown** is **7 days**. It is recommended to schedule the script to run every 30 days on a each Domain Controller. New-CtmADKrbtgtKeys_Automated.ps1 must run from the Domain Controller with the PDC emulator role. Safe-run-new-krbtgt.ps1 has built in logic to detect that and exits if the Domain Controller does not have the PDC emulator role.
